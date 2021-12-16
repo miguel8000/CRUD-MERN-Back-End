@@ -1,0 +1,2 @@
+Banco de Dados Url da conexão do CRUD-MERN-STACK
+- mongodb+srv://miguel:pinkfloyd102@crud.hptcu.mongodb.net/movie?retryWrites=true&w=majority
